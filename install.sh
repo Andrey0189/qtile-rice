@@ -16,5 +16,5 @@ if [ -f ~/.Xresources ]; then
   mv -v ~/.Xresources ~/.Xresources.old
 fi
 
-cp -v ./config/* ~/.config
+cp -rv ./config/* ~/.config
 cp -v .Xresources ~/
