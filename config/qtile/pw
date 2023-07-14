@@ -1,0 +1,3 @@
+pipewire &
+pipewire-pulse &
+wireplumber &
