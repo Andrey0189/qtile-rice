@@ -12,7 +12,7 @@ My Qtile configuration files.
 - `pulseaudio-utils` Volume control
 - `flameshot` Screenshotting tool
 - `JetBrains Mono Bold` Main font
-Remove `pw` script from `./config/qtile/autostart.sh` if you're not using pipewire
+- Remove `pw` script from `./config/qtile/autostart.sh` if you're not using pipewire
 
 
 ## Installation
