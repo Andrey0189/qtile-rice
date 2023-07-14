@@ -12,5 +12,9 @@ if [ -d ~/.config/dunst ]; then
   mv -v ~/.config/dunst ~/.config/dunst-old
 fi
 
-mv -v ./config/* ~/.config
+if [ -f ~/.Xresources ]; then
+  mv -v ~/.Xresources ~/.Xresources.old
+fi
 
+cp -v ./config/* ~/.config
+cp -v .Xresources ~/

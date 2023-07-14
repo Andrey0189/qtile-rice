@@ -1,0 +1,60 @@
+! Gruvbox:
+*.foreground: #ebdbb2
+*.background: #1d2021
+
+*color0:     #282828
+*color1:     #cc241d
+*color2:     #98971a
+*color3:     #d79921
+*color4:     #458588
+*color5:     #b16286
+*color6:     #689d6a
+*color7:     #a89984
+*color8:     #928374
+*color9:     #fb4934
+*color10:    #b8bb26
+*color11:    #fabd2f
+*color12:    #83a598
+*color13:    #d3869b
+*color14:    #8ec07c
+*color15:    #ebdbb2
+
+!Old theme:
+!*.foreground: #c5c8c6
+!*.background: #171514
+
+!*color0:     #222222
+!*color1:     #bd2a2a
+!*color2:     #4ebc29
+!*color3:     #bc9729
+!*color4:     #294ebc
+!*color5:     #9729bc
+!*color6:     #29bcbc
+!*color7:     #cecece
+!*color8:     #888888
+!*color9:     #d64343
+!*color10:    #68d643
+!*color11:    #d6b143
+!*color12:    #4368d6
+!*color13:    #b143d6
+!*color14:    #43d6d6
+!*color15:    #ffffff
+
+Xcursor.theme: Adwaita
+Xcursor.size: 32
+
+*.termName: xterm-256color
+*.vt100.locale: true
+*.vt100.saveLines: 4096
+*.visualBellLine: true
+*.vt100.faceName: xft:JetBrains Mono:bold:size=13
+
+URxvt.font: xft:JetBrains Mono:bold:size=13
+URxvt.letterSpace: -1
+URxvt.scrollBar: false
+URxvt.iso14755: false
+urxvt.perl-ext-common: default,resize-font
+URxvt.keysym.C-minus:    resize-font:smaller
+URxvt.keysym.C-equal:    resize-font:bigger
+URxvt.keysym.C-plus:     resize-font:reset
+
