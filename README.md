@@ -8,6 +8,7 @@ My Qtile configuration files.
 - `qtile` (Who would have thought?)
 - `rofi` Application launcher
 - `dunst` Notifications
+- [`pijulius/picom`](https://github.com/pijulius/picom) Compositor
 - `feh` Wallpaper
 - `pulseaudio-utils` Volume control
 - `flameshot` Screenshotting tool
